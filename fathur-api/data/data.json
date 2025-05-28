@@ -1,0 +1,50 @@
+{
+ "siswa": [
+  {
+   "id": 1,
+   "nama": "Budi",
+   "kelas": "XII",
+   "jurusan": "IPA"
+  },
+  {
+   "id": 2,
+   "nama": "Siti",
+   "kelas": "XII",
+   "jurusan": "IPS"
+  },
+  {
+   "id": 3,
+   "nama": "Andi",
+   "kelas": "XI",
+   "jurusan": "IPA"
+  },
+  {
+   "id": 4,
+   "nama": "Dewi",
+   "kelas": "XI",
+   "jurusan": "IPS"
+  }
+ ],
+ "guru": [
+  {
+   "id": 1,
+   "nama": "Mr. John",
+   "mata_pelajaran": "Matematika"
+  },
+  {
+   "id": 2,
+   "nama": "Ms. Sarah",
+   "mata_pelajaran": "Bahasa Inggris"
+  },
+  {
+   "id": 3,
+   "nama": "Mr. Ali",
+   "mata_pelajaran": "Fisika"
+  },
+  {
+   "id": 4,
+   "nama": "Ms. Rina",
+   "mata_pelajaran": "Kimia"
+  }
+ ] 
+}
